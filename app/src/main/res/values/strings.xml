@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ali Noori Share</string>
+    <string name="notif_channel_name">File transfer</string>
+    <string name="notif_transfer_title">Transferring files</string>
+    <string name="notif_received_title">Files received</string>
+</resources>
